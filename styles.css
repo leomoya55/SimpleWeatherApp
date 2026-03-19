@@ -1,0 +1,17 @@
+h1 {
+    margin: auto;
+    margin-bottom: 100px;
+
+    color: whitesmoke;
+}
+
+body {
+    margin-top: 100px;
+    text-align: center;
+    background-color: #243345;
+}
+
+#weather-result {
+    margin-top: 100px;
+    color: whitesmoke;
+}
